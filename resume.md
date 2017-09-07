@@ -3,7 +3,7 @@ layout: page
 title: My resume
 permalink: /resume/
 ---
-# Experience- Web Developer Client Technical
+# Experience
   I was does Web application and server
 # Education
 -Bs.C. Computer Science, Ubon Ratchatani Ratjabhat ubon unversity.
